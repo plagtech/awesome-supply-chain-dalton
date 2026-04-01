@@ -50,6 +50,7 @@
 ## Artificial Intelligence and Machine Learning
 
 - [llSourcell/AI_Supply_Chain](https://github.com/llSourcell/AI_Supply_Chain) This is the code for "AI for Supply Chain" by Siraj Raval on Youtube
+- [SCTP — Supply Chain Task Protocol](https://github.com/plagtech/sctp) - Agent-native invoice verification and payment layer. AI agents verify invoices against POs and execute USDC supplier payments across 15+ chains. No API keys required. [Live API](https://gateway.spraay.app).
 
 ## Blockchain
 
